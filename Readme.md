@@ -127,4 +127,5 @@ LD_PRELOAD：
 ## 鸣谢
 
 感谢前端巨佬 [**素依依**](https://github.com/LittleGremlin) 提供的前端支持（全是她写的）。
+感谢大佬[**H4ck3R_XiX**](https://github.com/An0ny-m0us/)提供Bypass技术支持（部分）。
 
