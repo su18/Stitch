@@ -68,35 +68,35 @@
 
 首页：
 
-![image-20191025104223012](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191025104223012.png)
+![image-20191025104223012](https://su18.org/post-images/1572579560289.png)
 
 文件管理：
 
-![image-20191031234521174](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191031234521174.png)
+![image-20191031234521174](https://su18.org/post-images/1572579547389.png)
 
 命令执行：
 
-![image-20191025104144182](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191025104144182.png)
+![image-20191025104144182](https://su18.org/post-images/1572579540769.png)
 
 代码执行：
 
-![image-20191025222228570](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191025222228570.png)
+![image-20191025222228570](https://su18.org/post-images/1572579531388.png)
 
 端口扫描：
 
-![image-20191028092935675](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191028092935675.png)
+![image-20191028092935675](https://su18.org/post-images/1572579520683.png)
 
 数据库执行：
 
-![image-20191031234447737](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191031234447737.png)
+![image-20191031234447737](https://su18.org/post-images/1572579512298.png)
 
 LD_PRELOAD：
 
-![image-20191101103111125](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191101103111125.png)
+![image-20191101103111125](https://su18.org/post-images/1572579503750.png)
 
 消息提示：
 
-![image-20191029141145532](https://raw.githubusercontent.com/JosephTribbianni/Stitch/master/images/image-20191029141145532.png)
+![image-20191029141145532](https://su18.org/post-images/1572579493526.png)
 
 
 
